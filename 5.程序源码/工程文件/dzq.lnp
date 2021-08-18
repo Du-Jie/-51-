@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"dzq.obj",
+"lcd.obj" 
+TO "dzq" 
+RAMSIZE(256) 
